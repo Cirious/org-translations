@@ -27,6 +27,6 @@ $lang['gi_sec3para2']               	= "Wir arbeiten auch daran viele Inhalte de
 $lang['gi_sec3link1']               	= "Mehr Informationen zu Rosetta ansehen";
 $lang['gi_sec3link2']               	= "Unsere Übersetzer-Seite ansehen";
 
-$lang['gi_sec4para1']               	= "Unsere Webseite basiert auf HTML, CSS, PHP, MySQL, und JavaScript. Wir sind immer auf der Suche nach erfahrenden Leuten in diesen Bereichen welche gerne etwas beitragen möchten um die Webseite noch besser zu machen. Das Großteil der Designs unserer Webseite stammt vom Design Team, aber wir mögen Ideen und Kritik gleichermaßen von unserem Web Team.";
+$lang['gi_sec4para1']               	= "Unsere Webseite basiert auf HTML, CSS, PHP, MySQL, und JavaScript. Wir sind immer auf der Suche nach erfahrenden Leuten in diesen Bereichen welche gerne etwas beitragen möchten um die Webseite noch besser zu machen. Der Großteil des Designs unserer Webseite stammt vom Design Team, aber wir mögen Ideen und Kritik gleichermaßen von unserem Web Team.";
 
 $lang['gi_irclink']                 	= "Mit uns im Internet Relay Chat (IRC) reden";
