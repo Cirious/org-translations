@@ -4,9 +4,9 @@
 
 $lang['required']   		 = "Das %s Feld ist erforderlich.";
 $lang['isset']   			 = "Das %s Feld muss einen Wert enthalten.";
-$lang['valid_email']   	 = "Das %s Feld muss eine gültig E-Mail-Adresse enthalten.";
+$lang['valid_email']   	 = "Das %s Feld muss eine gültige E-Mail-Adresse enthalten.";
 $lang['valid_emails']   	 = "Im %s Feld müssen alle E-Mail-Adressen gültig sein.";
-$lang['valid_url']   		 = "Das %s Feld muss eine gültig URL enthalten.";
+$lang['valid_url']   		 = "Das %s Feld muss eine gültige URL enthalten.";
 $lang['valid_ip']   		 = "Das %s Feld muss eine gültige IP enthalten.";
 $lang['min_length']   		 = "Das %s Feld muss mindestens %s Zeichen lang sein.";
 $lang['max_length']   		 = "Das %s Feld darf nicht die Länge von %s Zeichen überschreiten.";
